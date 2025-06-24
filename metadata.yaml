@@ -1,5 +1,5 @@
 homepage: "https://www.adaptor.app"
 documentation: "https://dashboard.adaptor.app"
 versions:
-  - sha: 0ef8be85a64c3440a3c7c1a526a850fb441222d0
+  - sha: 8076188d5940b242b61aba45067139cc611a721e
     changeNotes: Release
